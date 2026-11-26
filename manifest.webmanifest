@@ -1,6 +1,7 @@
 {
-  "name": "Taobin Finder",
-  "short_name": "Taobin Finder",
+  "name": "Taobin 機器搜尋",
+  "short_name": "Taobin 搜尋",
+  "lang": "zh-Hant-HK",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f3f6f3",
